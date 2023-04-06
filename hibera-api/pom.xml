@@ -8,11 +8,11 @@
         <version>3.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>hibera-agency</groupId>
-    <artifactId>hibera-api</artifactId>
+    <groupId>adh-adventures</groupId>
+    <artifactId>adh-adventures</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hibera-api</name>
-    <description>hibera-api</description>
+    <name>adh-adventures</name>
+    <description>adh-adventures</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -40,12 +40,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web-services</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>

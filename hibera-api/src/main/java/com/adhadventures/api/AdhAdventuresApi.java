@@ -1,13 +1,13 @@
-package hibera.web.api;
+package com.adhadventures.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HiberaApiApplication {
+public class AdhAdventuresApi {
 
     public static void main(String[] args) {
-        SpringApplication.run(HiberaApiApplication.class, args);
+        SpringApplication.run(AdhAdventuresApi.class, args);
     }
 
 }

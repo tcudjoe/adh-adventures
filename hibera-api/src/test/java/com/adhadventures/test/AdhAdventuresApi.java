@@ -1,10 +1,10 @@
-package hibera.web.api;
+package com.adhadventures.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HiberaApiApplicationTests {
+class AdhAdventuresApi {
 
     @Test
     void contextLoads() {

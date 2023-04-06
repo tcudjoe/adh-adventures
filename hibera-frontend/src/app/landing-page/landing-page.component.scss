@@ -1,0 +1,16 @@
+@import "./src/scss/variables.scss";
+
+.container {
+    background-color: #f7f7f7;
+}
+
+h1 {
+    text-align: center;
+    padding-left: $p-big;
+}
+
+img {
+    margin-top: $m-xxl;
+    width: 100%;
+}
+

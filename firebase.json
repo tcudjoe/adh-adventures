@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "source": "hibera-frontend",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
